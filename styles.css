@@ -1,0 +1,35 @@
+.nav ul{
+    background-color:#626F47;
+    padding: 15px 10px;
+    text-align: right;
+ 
+}
+
+.nav li {
+  
+    
+    display: inline-block; 
+    margin: 10px 10px 10px 10px;
+      }
+    
+      
+.nav a {
+  text-decoration: none;
+  color: #A7C1A8;
+  font-size: 25px;
+  text-align: right;
+  
+  }
+  h1{
+    color: #5A827E;
+    text-align: center;
+  }
+ body {
+  background-color: #D1D8BE;
+ }
+ p{
+  color: #5A827E;
+  text-align: center;
+  padding: 10px 50px 50px 50px ;
+ }
+ 

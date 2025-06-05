@@ -1,11 +1,18 @@
-.nav {
+.nav  {
+    
     color: palevioletred;
     font-size: 25px;
+
 }
+li {
+    display: inline-block; 
+    margin: 10px 10px 10px 100px;
+      }
 .menu {
     color: plum;
     font-weight: lighter;
 }
+
 h1 {
     color: rgba(150, 70, 70, 0.861);
     font-size: 40px;
@@ -14,4 +21,7 @@ h1 {
 p {
     color: rgb(85, 96, 173);
     font-size: 25px;
+}
+nav {
+    display: inline;
 }
