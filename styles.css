@@ -1,7 +1,12 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
 .nav ul{
     background-color:#626F47;
     padding: 15px 10px;
     text-align: right;
+    
  
 }
 
@@ -10,6 +15,7 @@
     
     display: inline-block; 
     margin: 10px 10px 10px 10px;
+    
       }
     
       
@@ -20,7 +26,8 @@
   text-align: right;
   
   }
-  h1{
+  header h1{
+    display: flex;
     color: #5A827E;
     text-align: center;
   }
@@ -31,5 +38,10 @@
   color: #5A827E;
   text-align: center;
   padding: 10px 50px 50px 50px ;
+ }
+ button{
+  background-color: #626F47;
+  padding: 9px 25px;
+  color: #5A827E;
  }
  
